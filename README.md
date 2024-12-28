@@ -1,7 +1,7 @@
 # ML_project - Career Change Prediction App
 
 This repository contains a machine learning-powered web application for predicting the likelihood of career change based on various personal and industry factors. The app provides a user-friendly interface for inputting data and receiving real-time predictions.
-
+<iframe src="https://giphy.com/embed/s99VUdNNp2kzYJDq4B" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/work-office-homeoffice-s99VUdNNp2kzYJDq4B">via GIPHY</a></p>
 ## Features
 
 - **Web Interface:** A responsive and clean front-end built using HTML, Bootstrap, and Flask templates.
