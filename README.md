@@ -39,10 +39,6 @@ This repository contains a machine learning-powered web application for predicti
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/career-change-prediction.git
-   cd career-change-prediction
-   ```
 
 2. Install dependencies:
    ```bash
@@ -75,18 +71,17 @@ This repository contains a machine learning-powered web application for predicti
    ```
 2. Use the graphical interface to input data and view predictions.
 
-## Screenshots
+## Demo
+>This is the youtube link for easily access.
 
-![Web Interface](screenshot-web.png)  
+[Desktop GUI](https://youtu.be/9tSnEnU52Ng) 
+*Example of the desktop application interface.*
+
+[Web Interface](https://youtu.be/5PjGQkL-HU4)
 *Example of the web application interface.*
 
-![Desktop GUI](screenshot-gui.png)  
-*Example of the desktop application interface.*
 
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any features or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
