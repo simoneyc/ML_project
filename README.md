@@ -84,7 +84,4 @@ This repository contains a machine learning-powered web application for predicti
 *Example of the web application interface.*
 
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any features or improvements.
 
